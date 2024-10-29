@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.serialization",
+  "name": "com.unity.data.serialization",
   "displayName": "Data Serialization",
   "version": "0.0.1",
   "unity": "2019.1",
