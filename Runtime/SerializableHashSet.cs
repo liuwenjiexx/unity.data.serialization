@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Unity.Managers.ResourceManagerV2.Framework
+namespace Unity.Serialization
 {
     [Serializable]
     public class SerializableHashSet<T> : IEnumerable<T>, ISerializationCallbackReceiver

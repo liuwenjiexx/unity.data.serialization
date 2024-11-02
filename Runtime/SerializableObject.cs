@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Unity
+namespace Unity.Serialization
 {
     //JsonUtility.ToJson(struct<T>)  Serialize fail
     /// <summary>
